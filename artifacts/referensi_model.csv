@@ -1,0 +1,101 @@
+model_grup,merek,tipe_bodi,tahun_min,tahun_maks,n_listing
+accord,honda,sedan,2008,2023,13
+br-v,honda,suv,2016,2024,62
+brio,honda,hatchback,2013,2025,92
+city,honda,hatchback,2017,2023,38
+cr-v,honda,suv,2012,2024,81
+freed,honda,mpv,2009,2013,20
+honda (lainnya),honda,mpv,2017,2026,8
+hr-v,honda,suv,2015,2024,84
+jazz,honda,hatchback,2013,2019,32
+mobilio,honda,mpv,2014,2022,18
+wr-v,honda,suv,2022,2024,29
+creta,hyundai,suv,2022,2025,178
+h-1,hyundai,mpv,2014,2021,9
+hyundai (lainnya),hyundai,suv,2016,2025,17
+ioniq 5 signature long range,hyundai,suv,2022,2024,51
+palisade,hyundai,suv,2021,2025,41
+santa fe,hyundai,suv,2015,2025,37
+stargazer,hyundai,mpv,2022,2025,97
+stargazer x,hyundai,mpv,2023,2025,67
+staria,hyundai,mpv,2021,2023,7
+a200,mercedes-benz,sedan,2014,2024,27
+amg g63,mercedes-benz,suv,2019,2022,5
+b200,mercedes-benz,hatchback,2014,2020,6
+c200,mercedes-benz,sedan,2010,2024,60
+c250,mercedes-benz,sedan,2012,2016,11
+c300,mercedes-benz,sedan,2017,2024,40
+cla200,mercedes-benz,coupe,2014,2023,23
+cls350,mercedes-benz,coupe,2012,2020,5
+cls400,mercedes-benz,coupe,2015,2017,5
+e200,mercedes-benz,sedan,2014,2025,22
+e250,mercedes-benz,sedan,2010,2018,16
+e300,mercedes-benz,sedan,2011,2025,41
+e350,mercedes-benz,sedan,2019,2021,8
+gla200,mercedes-benz,suv,2014,2024,24
+glb200,mercedes-benz,suv,2020,2023,10
+glc200,mercedes-benz,suv,2018,2022,39
+glc250,mercedes-benz,suv,2015,2017,12
+glc300,mercedes-benz,suv,2018,2024,10
+gle400,mercedes-benz,suv,2016,2018,8
+gle450,mercedes-benz,suv,2019,2025,26
+gls400,mercedes-benz,suv,2016,2017,5
+gls450,mercedes-benz,suv,2020,2022,6
+mercedes-benz (lainnya),mercedes-benz,sedan,1983,2025,63
+ml400,mercedes-benz,suv,2014,2016,7
+s350 l,mercedes-benz,sedan,2006,2014,7
+s400l,mercedes-benz,sedan,2014,2017,10
+s450l,mercedes-benz,sedan,2018,2024,11
+fuso canter,mitsubishi,Lainnya,2022,2025,18
+mirage,mitsubishi,hatchback,2013,2014,6
+mitsubishi (lainnya),mitsubishi,Lainnya,1978,2026,21
+outlander sport,mitsubishi,suv,2012,2018,14
+pajero sport,mitsubishi,suv,2010,2025,98
+xforce,mitsubishi,suv,2023,2025,50
+xpander,mitsubishi,mpv,2018,2025,213
+xpander cross,mitsubishi,mpv,2019,2026,68
+xpander ultimate,mitsubishi,mpv,2019,2023,8
+elgrand,nissan,mpv,2007,2017,15
+grand livina,nissan,mpv,2008,2018,56
+juke,nissan,suv,2011,2018,14
+kicks,nissan,suv,2020,2022,9
+leaf,nissan,hatchback,2021,2023,12
+livina,nissan,mpv,2008,2022,132
+magnite,nissan,suv,2021,2023,13
+march,nissan,hatchback,2012,2017,21
+nissan (lainnya),nissan,Lainnya,1992,2026,13
+serena,nissan,mpv,2010,2025,90
+teana,nissan,sedan,2012,2014,5
+terra,nissan,suv,2018,2023,22
+terrano,nissan,suv,2003,2004,5
+x-trail,nissan,suv,2003,2021,82
+apv,suzuki,Lainnya,2011,2021,8
+baleno,suzuki,hatchback,2017,2025,53
+carry,suzuki,Lainnya,2019,2022,8
+ertiga,suzuki,mpv,2012,2024,106
+grand vitara,suzuki,suv,2016,2024,9
+ignis,suzuki,suv,2017,2022,53
+jimny,suzuki,suv,2005,2025,12
+karimun,suzuki,Lainnya,2014,2019,16
+s-presso,suzuki,hatchback,2022,2025,29
+suzuki (lainnya),suzuki,hatchback,2010,2025,8
+sx4 s-cross,suzuki,hatchback,2016,2019,7
+xl7,suzuki,suv,2020,2025,177
+agya,toyota,hatchback,2014,2024,25
+alphard,toyota,mpv,2014,2023,19
+avanza,toyota,mpv,2014,2025,61
+calya,toyota,mpv,2016,2024,40
+camry,toyota,sedan,2011,2023,10
+fortuner,toyota,suv,2010,2019,7
+kijang innova,toyota,mpv,2011,2025,35
+kijang innova zenix,toyota,mpv,2022,2025,35
+land cruiser,toyota,suv,2010,2025,9
+raize,toyota,suv,2021,2023,29
+rush,toyota,suv,2009,2024,42
+sienta,toyota,mpv,2016,2019,21
+toyota (lainnya),toyota,suv,2013,2025,20
+vellfire,toyota,mpv,2009,2022,12
+veloz,toyota,mpv,2021,2025,25
+voxy,toyota,mpv,2018,2025,28
+yaris,toyota,hatchback,2013,2022,47
+yaris cross,toyota,suv,2023,2023,23

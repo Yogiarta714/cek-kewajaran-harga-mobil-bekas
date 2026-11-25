@@ -1,0 +1,42 @@
+{
+  "coverage": 0.8,
+  "segmen": [
+    "< Rp200 jt",
+    "Rp200-350 jt",
+    "Rp350-600 jt",
+    ">= Rp600 jt"
+  ],
+  "batas_segmen_rp": [
+    0,
+    200000000.0,
+    350000000.0,
+    600000000.0,
+    1000000000000.0
+  ],
+  "ambang": [
+    {
+      "segmen": "< Rp200 jt",
+      "batas_bawah": 0.8668986208833596,
+      "batas_atas": 1.074986892195802,
+      "kepastian": "tinggi"
+    },
+    {
+      "segmen": "Rp200-350 jt",
+      "batas_bawah": 0.8915303979411391,
+      "batas_atas": 1.0896262901142546,
+      "kepastian": "tinggi"
+    },
+    {
+      "segmen": "Rp350-600 jt",
+      "batas_bawah": 0.8094637990493007,
+      "batas_atas": 1.2190179371197722,
+      "kepastian": "sedang"
+    },
+    {
+      "segmen": ">= Rp600 jt",
+      "batas_bawah": 0.742676200571458,
+      "batas_atas": 1.8098042752004004,
+      "kepastian": "rendah"
+    }
+  ]
+}
