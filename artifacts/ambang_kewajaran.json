@@ -22,20 +22,20 @@
     },
     {
       "segmen": "Rp200-350 jt",
-      "batas_bawah": 0.8915303979411391,
+      "batas_bawah": 0.8915303979411378,
       "batas_atas": 1.0896262901142546,
       "kepastian": "tinggi"
     },
     {
       "segmen": "Rp350-600 jt",
       "batas_bawah": 0.8094637990493007,
-      "batas_atas": 1.2190179371197722,
+      "batas_atas": 1.2190179371197756,
       "kepastian": "sedang"
     },
     {
       "segmen": ">= Rp600 jt",
-      "batas_bawah": 0.742676200571458,
-      "batas_atas": 1.8098042752004004,
+      "batas_bawah": 0.7426762005714596,
+      "batas_atas": 1.8098042752003927,
       "kepastian": "rendah"
     }
   ]

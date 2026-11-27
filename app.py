@@ -147,7 +147,9 @@ with tab_jelajah:
         kolom.metric(nama.capitalize(), f"{n:,}".replace(",", "."), f"{persen:.1f}%", delta_color="off")
 
     tampil = pd.DataFrame({
-        "Listing": f["judul"], "Merek": f["merek"].str.title(), "Data": f["split"],
+        "Listing": f["judul"], "Merek": f["merek"].str.title(), "Model": f["model_grup"],
+        "Tahun": f["tahun_produksi"], "KM": f["km_rata2"].where(~f["km_kosong"]).round(0),
+        "Tipe bodi": f["tipe_bodi"], "Data": f["split"],
         "Harga (jt)": (f["harga"] / 1e6).round(0), "Prediksi (jt)": (f["prediksi"] / 1e6).round(0),
         "Rasio": f["rasio"].round(2), "Label": f["label"], "Kepastian": f["kepastian"], "Segmen": f["segmen"],
     })
